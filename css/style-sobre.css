@@ -1,0 +1,37 @@
+.conteudo-sobre {
+    width: 100%;
+    min-width: 100%;
+    align-items: center;
+}
+
+.conteudo-sobre h2 {
+    font-size: 5em;
+    text-align: center;
+    text-shadow: 2px 2px red;
+}
+
+.conteudo-sobre p {
+    font-size: 1em;
+    text-align: justify;
+}
+
+.conteudo-sobre img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.img-sobre {
+    width: 30%;
+    min-width: 30%;
+    max-width: 100%;
+    margin: 1em auto;
+    align-items: center;
+}
+
+.p-sobre {
+    width: 90%;
+    min-width: 90%;
+    max-width: 100%;
+    margin: 1em auto;
+    text-align: justify;
+}
